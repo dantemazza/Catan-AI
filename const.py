@@ -1,0 +1,36 @@
+
+EXPANSION_RESOURCE_INCREASE = 2
+EXPANSION_VALUE_INCREASE = 1
+EXPANSION_DESERT_INCREASE = 1
+
+ORE = "ORE"
+WHEAT = "WHEAT"
+BRICK = "BRICK"
+WOOD = "WOOD"
+SHEEP = "SHEEP"
+DESERT = "DESERT"
+OCEAN = "OCEAN"
+
+COUNT = {
+    ORE: 3,
+    BRICK: 3,
+    WHEAT: 4,
+    WOOD: 4,
+    SHEEP: 4,
+    DESERT: 1
+}
+
+
+VALUE_COUNT = {
+    2: 1,
+    3: 2,
+    4: 2,
+    5: 2,
+    6: 2,
+    8: 2,
+    9: 2,
+    10: 2,
+    11: 2,
+    12: 1
+}
+

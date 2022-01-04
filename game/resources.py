@@ -29,7 +29,7 @@ class BankNote:
 class ResourceConsumer:
     def __init__(self, player=False):
         if not player:
-            self.account = BankNote(start=STARTING_RESOURCES)
+            self.account = BankNote(start=TOTAL_RESOURCES)
         else:
             self.account = BankNote()
 
